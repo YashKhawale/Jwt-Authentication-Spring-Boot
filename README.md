@@ -31,12 +31,12 @@ It provides secure login, token generation, and protected REST APIs.
 
 ## 🧪 Testing with Postman
 
-- Register user
+1. Register user
 
-- Login to get JWT token
+2. Login to get JWT token
 
-- Add token in Authorization header
+3. Add token in Authorization header
 
-- Access protected APIs
+4. Access protected APIs 
 
 ---
